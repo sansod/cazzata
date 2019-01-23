@@ -1,0 +1,4 @@
+it\linksmt\teamshare\configuration\TeamShareApplication.class
+it\linksmt\teamshare\configuration\WebSecurityConfig.class
+it\linksmt\teamshare\configuration\SwaggerConfig.class
+it\linksmt\teamshare\rest\controller\UserController.class
